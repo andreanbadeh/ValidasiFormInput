@@ -6,3 +6,6 @@ NIM : 312410341
 
 MATKUL : BAHASA PEMROGRAMAN
 
+# LATIHAN VALIDASI FORM INPUT
+
+![gambar](https://github.com/andreanbadeh/ValidasiFormInput/blob/a0666f1eb72315890483397785a50c2e0a46177b/Images/Screenshot%202024-12-24%20062030.png)
